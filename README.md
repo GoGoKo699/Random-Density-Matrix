@@ -4,14 +4,14 @@
 
 This is a repository for all code written for the article *Exact analytical relation between the entropies and the dominant eigenvalue of random reduced density matrices*. 
 
-All code is written Python. Libraries required:
+All codes are written in Python. Libraries required:
 
   - matplotlib for plots
   - numpy, statistics, random, time
 
 #### Usage
-In this example there are files that output every plots in the article, which were generated with real normal distribution.
-An option of complex normal distribution is provided in each python code, please switch ''real'' to ''complex''.
+In this example, there are files that output every plot in the article, generated with the real normal distribution.
+An option of the complex normal distribution is provided in each python code. Please switch from ''real'' to ''complex''.
 
 ##### How to cite
 
