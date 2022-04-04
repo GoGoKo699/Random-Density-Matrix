@@ -11,7 +11,7 @@ All codes are written in Python. Libraries required:
 
 #### Usage
 In this example, there are files that output every plot in the article, generated with the real normal distribution.
-An option of the complex normal distribution is provided in each python code. Please switch 'normal'  from ' 'real' ' to ' 'complex' ' in the code.
+An option of the complex normal distribution is provided in each python code. Please switch `normal`  from `'real' ` to `'complex'` in the code.
 
 ##### How to cite
 
