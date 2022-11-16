@@ -7,7 +7,8 @@ This is a repository for all code written for the article *Exact analytical rela
 All codes are written in Python. Libraries required:
 
   - matplotlib for plots
-  - numpy, statistics, random, time
+  - qibo for quantum ciecuit simulation
+  - numpy, tensorflow, statistics, random, time
 
 #### Usage
 In this example, there are files that output every plot in the article, generated with the real normal distribution.
